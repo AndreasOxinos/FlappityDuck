@@ -1,0 +1,34 @@
+Integration con Facebook para Unity Web player
+
+Mediante el uso de esta herramienta puede tener conexion y aceso al API de Facebook de manera casi inmediata
+
+Como usarlo:
+
+* Antes de hacer uso de esta herramienta debe haber creado una aplicacion Facebook http://developers.facebook.com
+* Una vez creada la aplicacion tengsa en cuenta el "App ID/API Key" asignado por Facebook
+* Edite la configuracion de la aplicación y escoja la opción "Website with Facebook Login"
+	Agregue "URL del sitio" es importante que asigne la direccion donde estara alojada la aplicación
+	este paso es muy importante, ya que Facebook solo permitira realizar la autenticacion si el login se
+	realiza desde la direccion aqui reportada. De otra forma arojara un error y no sera posible el login.
+
+Una vez realizados estos pasos ya podemos empezar:
+	
+	1) Cree un proyecto en unity
+	2) Importe el package
+	3) Cambie a plataforma "Web Player" (Files > Build settings, seleccione Web Player y presione el boton "Swith plataform")
+	4) En esta misma pantalla seleccione como escena primaria "Example Unity 3x" o "Example Unity 4" segun la version de unity que este usando.		
+	5) Abra la escena "Example Unity 3x" o "Example Unity 4" segun la version de unity que este usando.	
+	6) Ponga su "App ID/API Key" en el campo "App ID" del objeto "Facebook" o "Facebook4" (dependiendo la escena que haya seleccionado)	
+	7) Compile el proyecto y publiquelo.
+	
+	Es importante que la aplicacion sea publicada en la misma direccion que se indico en Facebook. (http://developers.facebook.com)
+	Si desea trabajar localmente puede publicarlo en el locashost de su equipo, indique en facebook que la app va a accesar desde el localhost.
+
+	Si lo dese puede ver este video http://youtu.be/2vnpxxHmNow
+
+Para soporte, asistecia y reporte de errores escribanos a ctellom@hotmail.com
+
+librerias de terceros incluidas:
+	LitJson - http://litjson.sourceforge.net/
+	JSon-js - http://www.json.org/js.html
+	

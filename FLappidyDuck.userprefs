@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameInitializer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CharacterController2D.cs" Line="132" Column="49" />
+      <File FileName="Assets/Scripts/SaveUserData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameInitializer.cs" Line="1" Column="1" />
+      <File FileName="Assets/ShowScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/ShareScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/loadStart.cs" Line="1" Column="1" />
+      <File FileName="Assets/LoadScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShareFB.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SelfDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Initializer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

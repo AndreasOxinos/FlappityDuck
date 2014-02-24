@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: e6b5a031aa0074040acae3f24fe38901
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ducky_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ducky_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 11
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ducky_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 16
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ducky_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 16
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ducky_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 12
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ducky_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 16
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ducky_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 16
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

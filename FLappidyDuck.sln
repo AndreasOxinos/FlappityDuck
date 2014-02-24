@@ -1,0 +1,64 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E4E95D08-786C-B65B-7D0A-1FAE197F6D0D}") = "FLappidyDuck", "Assembly-CSharp.csproj", "{E2E862C4-6547-2242-180B-A915A4101B4E}"
+EndProject
+Project("{E4E95D08-786C-B65B-7D0A-1FAE197F6D0D}") = "FLappidyDuck", "Assembly-CSharp-Editor.csproj", "{FBB0FD5B-EA24-EC52-2967-7DBC70817F4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E862C4-6547-2242-180B-A915A4101B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E862C4-6547-2242-180B-A915A4101B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E862C4-6547-2242-180B-A915A4101B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E862C4-6547-2242-180B-A915A4101B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB0FD5B-EA24-EC52-2967-7DBC70817F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB0FD5B-EA24-EC52-2967-7DBC70817F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB0FD5B-EA24-EC52-2967-7DBC70817F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB0FD5B-EA24-EC52-2967-7DBC70817F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.AnonymousMethodBraceStyle = NextLine
+		$2.PropertyBraceStyle = NextLine
+		$2.PropertyGetBraceStyle = NextLine
+		$2.PropertySetBraceStyle = NextLine
+		$2.EventBraceStyle = NextLine
+		$2.EventAddBraceStyle = NextLine
+		$2.EventRemoveBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ArrayInitializerBraceStyle = NextLine
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+		$0.DotNetNamingPolicy = $4
+		$4.DirectoryNamespaceAssociation = None
+		$4.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+
+EndGlobal
